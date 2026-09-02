@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 👋 Hi, I'm Israt Jannat Halima
@@ -81,5 +81,5 @@ Hi, I'm **Israt Jannat Halima** 👋 — a passionate **Frontend Developer** who
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ijannathalima-ux&row=1&column=6" alt="GitHub Trophies" />
 </p>
-```
+
 
