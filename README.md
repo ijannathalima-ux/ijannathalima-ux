@@ -43,12 +43,8 @@ Hi, I'm **Israt Jannat Halima** 👋 — a passionate **Frontend Developer** who
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="YOUR-FACEBOOK-LINK">
+  <a href="https://www.facebook.com/israt.jannat.halima.01">
     <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook"/>
-  </a>
-  &nbsp;
-  <a href="YOUR-INSTAGRAM-LINK">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:ijannathalima@gmail.com">
