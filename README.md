@@ -1,27 +1,85 @@
-<h1 align="center">Hi 👋, I'm Israt Jannat Halima</h1>
-<h3 align="center">Frontend Developer | React.js Learner</h3>
+```md
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijannathalima-ux&label=Profile%20views&color=0e75b6&style=flat" alt="ijannathalima-ux" /> </p>
+# 👋 Hi, I'm Israt Jannat Halima
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijannathalima-ux" alt="ijannathalima-ux" /></a> </p>
+### 💻 Frontend Developer | React.js Learner
 
-- 🌱 I’m currently learning **React.js, JavaScript, TypeScript**
+</div>
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript**
+---
 
-- 📫 How to reach me **ijannathalima@gmail.com**
+## 👩‍💻 About Me
 
-- ⚡ Fun fact **I love learning new things and building projects 🚀**
+Hi, I'm **Israt Jannat Halima** 👋 — a passionate **Frontend Developer** who enjoys creating clean, responsive, and user-friendly websites.
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 Currently learning **React.js**
+- 💻 Practicing **JavaScript & TypeScript**
+- 🛠️ Building small **frontend projects**
+- 📚 Improving my **problem-solving and coding skills**
+- 🚀 Learning new technologies through practice and projects
+
+---
+
+## 🚀 Current Activities
+
+- 🌱 Learning **React.js**
+- 💻 Practicing **JavaScript & TypeScript**
+- 🛠️ Building and improving **frontend projects**
+- 📚 Strengthening my **coding and problem-solving skills**
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,git,github" alt="Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijannathalima-ux&show_icons=true&locale=en&layout=compact" alt="ijannathalima-ux" /></p>
+## 🔗 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijannathalima-ux&show_icons=true&locale=en" alt="ijannathalima-ux" /></p>
+<p align="left">
+  <a href="https://github.com/ijannathalima-ux">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/israt.jannat.halima.01">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="mailto:ijannathalima@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijannathalima-ux&" alt="ijannathalima-ux" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ijannathalima-ux&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijannathalima-ux&layout=compact&locale=en&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijannathalima-ux" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ijannathalima-ux&row=1&column=6" alt="GitHub Trophies" />
+</p>
+```
+
