@@ -1,71 +1,27 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Israt Jannat Halima</h1>
+<h3 align="center">Frontend Developer | React.js Learner</h3>
 
-<img src="YOUR-BANNER-LINK-HERE" width="100%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ijannathalima-ux&label=Profile%20views&color=0e75b6&style=flat" alt="ijannathalima-ux" /> </p>
 
-# 👋 Hi, I'm Israt Jannat Halima
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ijannathalima-ux" alt="ijannathalima-ux" /></a> </p>
 
-### 💻 Frontend Developer | React.js Learner
+- 🌱 I’m currently learning **React.js, JavaScript, TypeScript**
 
-</div>
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript**
 
----
+- 📫 How to reach me **ijannathalima@gmail.com**
 
-## 👩‍💻 About Me
+- ⚡ Fun fact **I love learning new things and building projects 🚀**
 
-I'm a passionate Frontend Developer who enjoys creating clean, responsive, and user-friendly websites.
-
-* 🌱 Currently learning **React.js**
-* 💻 Building and practicing frontend projects
-* 🚀 Improving my **JavaScript & TypeScript** skills
-* 📚 Continuously learning modern web technologies
-
----
-
-## 🛠️ Skills
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🔗 Connect With Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ijannathalima-ux&show_icons=true&locale=en&layout=compact" alt="ijannathalima-ux" /></p>
 
-<p align="left">
-  <a href="YOUR-FACEBOOK-LINK">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR-INSTAGRAM-LINK">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR-GITHUB-LINK">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL">
-    📧 Email
-  </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ijannathalima-ux&show_icons=true&locale=en" alt="ijannathalima-ux" /></p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ijannathalima-ux&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijannathalima-ux&layout=compact&hide_border=true" alt="Top Languages"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ijannathalima-ux&" alt="ijannathalima-ux" /></p>
