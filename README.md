@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="GitHub Profile Banner">
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Israt Jannat Halima
