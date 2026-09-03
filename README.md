@@ -132,27 +132,10 @@ I enjoy learning by building projects and applying what I learn in real-world pr
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijannathalima-ux&show_icons=true&locale=en&hide_border=true" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijannathalima-ux&layout=compact&locale=en&hide_border=true" height="180" alt="Top Languages">
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijannathalima-ux&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ijannathalima-ux&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
