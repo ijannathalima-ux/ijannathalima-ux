@@ -72,20 +72,29 @@ I'm currently focusing on:
 
 ## 📚 Learning Journey
 
-| Technology           | Status                |
-| -------------------- | --------------------- |
-| HTML5                | ✅ Practicing          |
-| CSS3                 | ✅ Practicing          |
-| Tailwind CSS         | ✅ Learning            |
-| JavaScript           | 🔥 Practicing         |
-| TypeScript           | 🌱 Learning           |
-| React.js             | 🚀 Currently Learning |
-| Git & GitHub         | ✅ Practicing          |
-| Node.js              | 🔜 Future Goal        |
-| Express.js           | 🔜 Future Goal        |
-| MongoDB / PostgreSQL | 🔜 Future Goal        |
+🌱 **Currently Learning**
+- React.js
+- TypeScript
+- Advanced JavaScript
+- Responsive Web Development
 
----
+💻 **Already Working With**
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- Git & GitHub
+
+🚀 **Next Goal**
+- Node.js & Express.js
+- REST APIs
+- MongoDB & PostgreSQL
+- Backend Development
+- Full-Stack Development
+
+🎯 **My Goal**
+
+> To continuously improve my skills, build real-world projects, and grow from a **Frontend Developer** into a **Full-Stack Developer**.
 
 ## 💻 My Projects
 
