@@ -17,9 +17,10 @@
 
 Hi, I'm **Israt Jannat Halima** 👋 — a passionate **Frontend Developer** who enjoys creating clean, responsive, and user-friendly web experiences.
 
-I'm currently focused on strengthening my frontend development skills with **JavaScript, TypeScript, and React.js**. My long-term goal is to become a **Full-Stack Developer** and build complete, real-world web applications from frontend to backend.
+I'm currently focused on strengthening my frontend development skills with **JavaScript, TypeScript, React.js and Next.js**. My long-term goal is to become a **Full-Stack Developer** and build complete, real-world web applications from frontend to backend.
 
 * 🌱 Currently learning **React.js**
+* 🌱 Currently learning **Next.js**
 * 💻 Practicing **JavaScript & TypeScript**
 * 🎨 Building responsive and user-friendly websites
 * 🧠 Improving my problem-solving and programming skills
